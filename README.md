@@ -1,4 +1,4 @@
-<img src="head.gif" alt="head" width="800" height="400">
+<img src="head.gif" alt="head" width="600" height="400">
 
 # RusProfile Management History Scraper
 
