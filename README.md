@@ -1,3 +1,5 @@
+<img src="head.gif" alt="head" width="800" height="400">
+
 # RusProfile Management History Scraper
 
 A Python scraper that extracts the **complete management history** of Russian companies from [rusprofile.ru](https://www.rusprofile.ru), using a list of company INNs as input.
